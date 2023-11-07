@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amirhossein-Edadi
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on comprehensive websites
 - 📫 How to reach me ...
 
