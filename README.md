@@ -1,5 +1,8 @@
 # Hello, there! 👋
-I'm Amirhossein Edadi, a Django and Python developer passionate about building web applications. Welcome to my GitHub profile!
+
+I'm Amirhossein Edadi, Welcome to my GitHub profile!
+
+<!-- I'm Amirhossein Edadi, a Django and Python developer passionate about building web applications. Welcome to my GitHub profile!
 
 ## Skills
 - Programming languages: Python
@@ -8,7 +11,7 @@ I'm Amirhossein Edadi, a Django and Python developer passionate about building w
 - Frontend technologies: HTML, CSS, JavaScript
 - Version control: Git, GitHub
 - Containerization: Docker
-- Testing: Pytest
+- Testing: Pytest -->
 
 <!--- - 👋 Hi, I’m Amirhossein-Edadi
 - 👀 I’m interested in Back-End development
