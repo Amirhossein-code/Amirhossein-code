@@ -2,7 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirhossein+Edadi!;" />
 </h1>
 
-<h3>A Django and Python developer passionate about building web applications. Welcome to my GitHub profile!<h3>
+About me
+
+<h4>A Django and Python developer passionate about building web applications. Welcome to my GitHub profile!<h3>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,git,html,css" /><br>
+</div>
 
 ## Skills
 
