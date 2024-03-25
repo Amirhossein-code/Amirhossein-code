@@ -1,17 +1,17 @@
-# Hello, there! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirhossein+Edadi!;" />
+</h1>
 
-I'm Amirhossein Edadi, Welcome to my GitHub profile!
-
-<!-- I'm Amirhossein Edadi, a Django and Python developer passionate about building web applications. Welcome to my GitHub profile!
+<h3>A Django and Python developer passionate about building web applications. Welcome to my GitHub profile!<h3>
 
 ## Skills
+
 - Programming languages: Python
 - Web frameworks: Django, Django REST Framework
 - Databases: MySQL
 - Frontend technologies: HTML, CSS, JavaScript
 - Version control: Git, GitHub
 - Containerization: Docker
-- Testing: Pytest -->
 
 <!--- - 👋 Hi, I’m Amirhossein-Edadi
 - 👀 I’m interested in Back-End development
