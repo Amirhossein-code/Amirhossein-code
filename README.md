@@ -10,6 +10,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,linux,docker" />
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,git,html,css" /><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+
+
 </div>
 
 <div align="center">
